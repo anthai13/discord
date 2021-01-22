@@ -21,5 +21,5 @@ def is_guild_owner():
 @commands.check_any(commands.is_owner(), is_guild_owner())
 async def only_for_owners(ctx):
     await ctx.send('Hello owner!')
-
-bot.run("NzIzMzAwNDk5ODM4ODYxNDAy.XuvoMw.qH29RGW-RVl6f1ZxToOrZ0O9fQI")
+discord_key = " "
+bot.run(discord_key)
