@@ -4,3 +4,4 @@ It functions:
 --> create a playlist by adding music from youtube or spotify
 --> show the queue 
 --> basic music functionalities such as (skip, add_next, play, show_playlist,pause, stop)
+--> and music recommendation
